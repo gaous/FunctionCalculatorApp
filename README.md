@@ -1,5 +1,5 @@
 # FunctionCalculatorApp
-An application created with reusing functionalities in mind and coded in Java. The project contains files for UML design data and test scripts.
+An application created with reusing functionalities in mind and coded in Java. The project contains files for UML design data, application codes and test scripts.
 
 IDE used: IBM Rational Software Architect
 
